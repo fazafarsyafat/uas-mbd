@@ -1,0 +1,28 @@
+﻿[
+  {
+    "x": {
+"identity": 3,
+"labels": [
+        "Mahasiswa"
+      ],
+"properties": {
+"asal": "bogor",
+"usia": "19",
+"nama": "Wildan"
+      }
+    }
+  },
+  {
+    "x": {
+"identity": 4,
+"labels": [
+        "Mahasiswa"
+      ],
+"properties": {
+"asal": "Cirebon",
+"usia": "20",
+"nama": "Faza Mohamad Farsyafat"
+      }
+    }
+  }
+]
